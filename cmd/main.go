@@ -7,8 +7,6 @@ import (
 
 	"fmt"
 	"log"
-	"os"
-	"strings"
 )
 
 func print_all_variables() {
